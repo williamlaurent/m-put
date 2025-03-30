@@ -35,7 +35,7 @@ pip install requests colorama
    ```
 2. Run `m-put.py`:
    ```sh
-   python m-put.py
+   python3 m-put.py
    ```
 
 ## 📝 Scan Results
@@ -48,5 +48,5 @@ This tool is for educational and legal security testing purposes only. Do not us
 
 ---
 
-Made with ❤️ by m-put
+Made with ❤️ by will and crew
 
