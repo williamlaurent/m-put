@@ -1,4 +1,4 @@
-# m-put
+# m-put (Mass-PUT)
 
 **m-put** is a simple bot designed to detect HTTP PUT vulnerabilities that allow unauthorized file uploads. This tool attempts to upload a test file and verify if it is accessible.
 
